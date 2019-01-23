@@ -22,6 +22,8 @@
         </activity>
         <activity android:name=".Email">
         </activity>
+        <activity android:name=".Enviar">
+        </activity>
     </application>
 
 </manifest>
