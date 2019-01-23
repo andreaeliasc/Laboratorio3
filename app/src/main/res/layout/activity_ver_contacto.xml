@@ -9,7 +9,7 @@
 
     <ImageView
             android:layout_width="165dp"
-            android:layout_height="175dp" app:srcCompat="@drawable/empty-photo"
+            android:layout_height="175dp" app:srcCompat="@drawable/p"
             tools:layout_editor_absoluteY="16dp" tools:layout_editor_absoluteX="110dp" android:id="@+id/imageView2"/>
     <EditText
             android:layout_width="wrap_content"

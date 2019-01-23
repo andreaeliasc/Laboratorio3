@@ -9,7 +9,7 @@
 
     <ImageView
             android:layout_width="227dp"
-            android:layout_height="209dp" app:srcCompat="@drawable/empty-photo"
+            android:layout_height="209dp" app:srcCompat="@drawable/p"
             android:id="@+id/imageView"
             app:layout_constraintStart_toStartOf="parent" android:layout_marginStart="78dp"
             app:layout_constraintBottom_toBottomOf="parent" android:layout_marginBottom="286dp"
