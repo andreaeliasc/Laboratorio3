@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Laboratorio</string>
+    <string name="Contacto">Mis Contactos</string>
+    <string name="Agregar">Agregar Contacto</string>
+    <string name="Back">Regresar</string>
+    <string name="crear">crear</string>
+    <string name="send">Enviar</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Email">Email</string>
+    <string name="Telefono">Telefono</string>
 </resources>

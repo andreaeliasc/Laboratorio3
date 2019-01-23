@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".VerContacto">
+
+    <ImageView
+            android:layout_width="165dp"
+            android:layout_height="175dp" app:srcCompat="@drawable/empty-photo"
+            tools:layout_editor_absoluteY="16dp" tools:layout_editor_absoluteX="110dp" android:id="@+id/imageView2"/>
+    <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="phone"
+            android:ems="10"
+            tools:layout_editor_absoluteY="280dp" tools:layout_editor_absoluteX="84dp" android:id="@+id/editText3"/>
+    <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"
+            android:ems="10"
+            tools:layout_editor_absoluteY="353dp" tools:layout_editor_absoluteX="84dp" android:id="@+id/editText5"/>
+    <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:ems="10"
+            tools:layout_editor_absoluteY="209dp" tools:layout_editor_absoluteX="82dp" android:id="@+id/editText6"/>
+    <Button
+            android:text="@string/Back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" tools:layout_editor_absoluteY="422dp"
+            tools:layout_editor_absoluteX="147dp" android:id="@+id/button4"/>
+</android.support.constraint.ConstraintLayout>

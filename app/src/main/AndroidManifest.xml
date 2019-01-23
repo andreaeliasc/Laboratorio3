@@ -16,6 +16,12 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+        <activity android:name=".Crear">
+        </activity>
+        <activity android:name=".VerContacto">
+        </activity>
+        <activity android:name=".Email">
+        </activity>
     </application>
 
 </manifest>
