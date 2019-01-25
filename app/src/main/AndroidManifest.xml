@@ -24,6 +24,8 @@
         </activity>
         <activity android:name=".Enviar">
         </activity>
+        <activity android:name=".contact_list_item">
+        </activity>
     </application>
 
 </manifest>
